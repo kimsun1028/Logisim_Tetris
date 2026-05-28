@@ -2,10 +2,6 @@
 
 이 저장소는 Logisim으로 구현한 테트리스 회로 프로젝트입니다.
 
-## 개요
-- Logisim에서 동작하는 테트리스 회로(`Tetris.circ`)를 포함합니다.
-- 교육용 또는 회로 설계 연습용으로 설계되었습니다.
-
 ## 요구사항
 - Java (Logisim 실행을 위한 환경)
 - Logisim 또는 Logisim-evolution 설치
